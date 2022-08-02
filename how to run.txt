@@ -1,0 +1,34 @@
+YOU NEED TO ACTIVATE "ONESHOT" it is the name of a virtual environment created by me where I have installed all the dependencies
+libraries and modules.
+
+SO, open command prompt right the following step by step:
+
+activate oneshot
+
+cd Desktop
+
+cd New folder
+
+spyder
+
+
+it will open the attendance.py under the folder named "New Folder" where you have the code with main.py also.
+Now just ctrl+A in spyder window and run all code.
+It will take some time to open a new window for desktop integrated webcam and there those faces will be detected
+whose facial images are uploaded in the "images folder" just like obama.jpg, biden.jpg, bhargab.jpg
+
+
+to quit the camera press "Q"
+
+
+for more info the directory where I kept the files looks like:
+
+Desktop
+|---- New folder 
+		|---- Attendance.csv
+		|---- attendance.py
+		|---- main.py
+		|---- Images
+			   |---- biden.jpg
+			   |---- bhargab.jpg
+			   |---- obama.jpg
